@@ -1,0 +1,11 @@
+﻿{
+  "id": "Competition",
+  "name": "Competition",
+  "author": "yewentao",
+  "description": "Competition multiplayer mode (build 20260715-transport-hotfix1)",
+  "version": "v0.0.0",
+  "min_game_version": "0.107.0",
+  "has_pck": true,
+  "has_dll": true,
+  "affects_gameplay": false
+}
