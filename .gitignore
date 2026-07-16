@@ -4,3 +4,4 @@
 .vs/
 *.log
 *.tmp
+Directory.Build.props
