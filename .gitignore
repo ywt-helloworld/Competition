@@ -1,12 +1,6 @@
 .godot/
-bin/
-/android/
-.git/
-.idea/
+**/bin/
+**/obj/
 .vs/
-publish/
-Properties/
-packages/
-.editorconfig
-*.user
-Directory.Build.props
+*.log
+*.tmp
